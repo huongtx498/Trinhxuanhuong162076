@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533146774 source:e:\document\tomaudothi\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
